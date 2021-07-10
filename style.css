@@ -1,0 +1,7 @@
+.input-container{
+    display: flex;
+    padding: 1rem;
+}
+.input-container label{
+    flex-basis: 8rem;
+}
